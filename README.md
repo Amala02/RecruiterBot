@@ -1,7 +1,8 @@
 # RecruiterBot
 
 ## Project Description
-This is a Recruiting Bot that was made with the help of Gemini+Streamlit. Gemini 1.5 Pro is the exact model used for making this chatbot. 
+Demo: https://drive.google.com/file/d/1ybrUjyIywqTLpEkIr-wx0lkUhKNC3Z3s/view?usp=sharing
+- This is a Recruiting Bot that was made with the help of Gemini+Streamlit. Gemini 1.5 Pro is the exact model used for making this chatbot. 
 
 It can: 
 - Collect candidate information such as Name, Contact number, emailID, desired position etc.
